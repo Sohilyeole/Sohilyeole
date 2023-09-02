@@ -5,9 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sohilyeole&label=Profile%20views&color=0e75b6&style=flat" alt="sohilyeole" /> </p>
 
-- 🌱 I’m currently learning **Node.js ,SQL**
+- 🌱 I’m currently learning **EXPRESS.JS,REACT**
 
-- 💬 Ask me about **HTML,CSS,JAVASCRIPT**
+- 💬 Ask me about **HTML,CSS,JAVASCRIPT,SQL,NOSQL,NODE.JS**
 
 - 📫 How to reach me **yeolesohil44@gmail.com**
 
